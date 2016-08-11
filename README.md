@@ -7,6 +7,6 @@
   - brew install reattach-to-user-namespace
 
 - Debian-based Linux:
-  - apt-get install tmux 
+  - sudo apt-get update; apt-get install tmux 
 
 ## Cheatsheet:
