@@ -51,6 +51,10 @@ Create new session
 ```
 :new<CR>
 ```
+Kill current session
+```
+:kill-session<CR>
+```
 ###### Window
 Create new window
 ```
