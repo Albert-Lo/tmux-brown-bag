@@ -27,7 +27,7 @@ Attach to previous session
 ```
 tmux a
 ```
-Attach to session name
+Attach to session by name
 ```
 tmux a -t your_session_name
 ```
@@ -66,7 +66,7 @@ Kill current window
 ```
 Select a window by number
 ```
-[1-9]
+[0-9]
 ```
 Select a window by entering a number
 ```
