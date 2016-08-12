@@ -23,6 +23,10 @@ New session with name
 ```
 tmux new -s your_session_name
 ```
+List sessions
+```
+tmux ls
+```
 Attach to previous session
 ```
 tmux a
