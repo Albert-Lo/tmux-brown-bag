@@ -36,9 +36,9 @@ Kill all sessions
 tmux kill-server
 ```
 ### Inside tmux
-#### Everything should be prefixed by your prefix key (default to Ctrl+b)
+Everything should be prefixed by your prefix key (default to Ctrl+b)
 
-###### Session
+#### Session
 List and select session
 ```
 s
@@ -55,7 +55,7 @@ Kill current session
 ```
 :kill-session<CR>
 ```
-###### Window
+#### Window
 Create new window
 ```
 c
@@ -76,7 +76,7 @@ Rename current window
 ```
 ,
 ```
-###### Pane
+#### Pane
 Split horizontally
 ```
 -
