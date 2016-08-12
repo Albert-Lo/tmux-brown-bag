@@ -1,5 +1,5 @@
 # Tmux
-### Aug 11 2016, Scalable Press Brown Bag Presentation
+### Aug 12 2016, Scalable Press Brown Bag Presentation
 
 ## Slides:
 https://docs.google.com/presentation/d/1PMmoSfBfanpes0M1PsPXSgBhzM-sL5GNXT5UjwYTHN8/edit?usp=sharing
